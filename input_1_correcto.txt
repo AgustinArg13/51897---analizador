@@ -1,0 +1,3 @@
+function suma(lionel,andres,messi,cuccittini)  {
+    console.log(20 + es + 4 - 7 + el + numero + 1 - 8);
+}
