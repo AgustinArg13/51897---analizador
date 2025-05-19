@@ -33,40 +33,40 @@ Sigue estos pasos para abrir el analizador, modificar el archivo de entrada y ej
 
 1. Abre la carpeta **SSL---51897**:
    ![captura1 0](https://github.com/user-attachments/assets/dd41a440-03f0-4b9f-bd46-41aa86c381e5)
-
-
+.
+.
 2. Haz **clic derecho** y abrir de preferencia **PowerShell**, o sino **Git Bash**:
    ![captura2 0](https://github.com/user-attachments/assets/8142f798-56ab-49a0-9f16-96d80cc5d669)
-
-
+.
+.
 3. Ahora con esto ya iniciado, abrimos el archivo en el block de notas/hacemos doble clic en **input.txt** en la carpeta **SSL---51897**:
    ![captura3 0](https://github.com/user-attachments/assets/52eec027-cdae-4261-a119-9f37a3d368a9)
-
-
+.
+.
 4. Volviendo a la carpeta donde se clono/instaló el proyecto, *repetimos el paso anterior* con los **4** archivos **input.txt**:
    ![captura4 0](https://github.com/user-attachments/assets/4b9a1238-e23b-48de-bd33-d48ddb05d78a)
-
-
+.
+.
 5. Ejemplo de como tendríamos que tener el block de notas:
    ![captura5 0](https://github.com/user-attachments/assets/5c716c77-5d19-4cfa-b6a0-b499d7463118)
-
-
+.
+.
 6. Antes de iniciar el analizador primero copiamos uno de los input.txt denominado como **correcto / incorrecto**:
    ![captura6 0](https://github.com/user-attachments/assets/5080b48e-68d9-4a0f-b071-7e82a9f5e86d)
-
-
+.
+.
 7. Luego pegamos el anterior copiado, en el **input.txt** original y guardamos con **Ctrl + G** o como se indica:
    ![captura7 0](https://github.com/user-attachments/assets/d6fe9f89-6cbf-43c5-813e-937953d26632)
    ![captura8 0](https://github.com/user-attachments/assets/95775bd8-0158-4f0b-8d81-2bb09882d86a)
-
-
+.
+.
 8. Volvemos a la pestaña **PowerShell** o **Git Bush** y escribimos el siguiente código para iniciar el analizador:
    ```bash
    npm start
 ![captura9 0](https://github.com/user-attachments/assets/6162899c-6809-480c-a577-5529f84caf55)
 ![captura10 0](https://github.com/user-attachments/assets/4775c380-0866-44a8-90c6-7a9dfafce49b)
-
-
+****
+**
 9. Damos enter y el analizador procede a ejecutarse, *repetimos los pasos* **6, 7, 8 y 9** para probar con otra entrada deseada. 
 
 
