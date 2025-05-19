@@ -60,7 +60,7 @@ Sigue estos pasos para abrir el analizador, modificar el archivo de entrada y ej
 ![captura10 0](https://github.com/user-attachments/assets/4775c380-0866-44a8-90c6-7a9dfafce49b)
 ****
 9. Damos enter y el analizador procede a ejecutarse, *repetimos los pasos* **6, 7, 8 y 9** para probar con otra entrada deseada. 
-
+****
 
 
 
