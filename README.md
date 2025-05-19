@@ -26,10 +26,9 @@ Sigue estos pasos para clonar e instalar dependencias del proyecto:
    # Instalar ANTLR4 globalmente (opcional, solo si necesitas regenerar el analizador)
    npm install -g antlr4
 
-##🛠 Uso del Analizador
+## 🛠 Uso del Analizador
 
 Sigue estos pasos para abrir el analizador, modificar el archivo de entrada y ejecutar el analizador:
-
 
 1. Abre la carpeta **SSL---51897**:
    ![captura1 0](https://github.com/user-attachments/assets/dd41a440-03f0-4b9f-bd46-41aa86c381e5)
