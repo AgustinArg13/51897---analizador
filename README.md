@@ -56,6 +56,7 @@ Sigue estos pasos para abrir el analizador, modificar el archivo de entrada y ej
    ```bash
    npm start
 ![captura9 1](https://github.com/user-attachments/assets/1b0746a5-1dcb-4170-922b-1910ae5e2966)
+****
 ![captura10 1](https://github.com/user-attachments/assets/dc0bffbb-31f7-42ee-a84d-1931ab77d32e)
 
 ****
