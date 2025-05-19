@@ -55,8 +55,9 @@ Sigue estos pasos para abrir el analizador, modificar el archivo de entrada y ej
 8. Volvemos a la pestaña **PowerShell** o **Git Bush** y escribimos el siguiente código para iniciar el analizador:
    ```bash
    npm start
-![captura9 0](https://github.com/user-attachments/assets/6162899c-6809-480c-a577-5529f84caf55)
-![captura10 0](https://github.com/user-attachments/assets/4775c380-0866-44a8-90c6-7a9dfafce49b)
+![captura9 1](https://github.com/user-attachments/assets/1b0746a5-1dcb-4170-922b-1910ae5e2966)
+![captura10 1](https://github.com/user-attachments/assets/dc0bffbb-31f7-42ee-a84d-1931ab77d32e)
+
 ****
 9. Damos enter y el analizador procede a ejecutarse, *repetimos los pasos* **6, 7, 8 y 9** para probar con otra entrada deseada. 
 ****
